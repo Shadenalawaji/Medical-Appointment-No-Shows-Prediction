@@ -60,3 +60,17 @@ The models were evaluated based on **Accuracy, Precision, Recall, F1-Score, and 
 1. Kaggle, "Medical Appointment No Shows Dataset," 2016.
 2. Pedregosa et al., "Scikit-learn: Machine Learning in Python," *JMLR*, 2011.
 3. Haq, M. A., & Khan, M. A. R., "Machine Learning Approaches to Predict No-Shows in Saudi Rehabilitation Hospitals," *Saudi J. Health Syst. Res.*, 2025.
+
+   ---
+
+## 📜 Certificates & Recognitions
+
+This project was officially recognized and presented at the **Data Science Expo 2026** hosted by the College of Computer and Information Sciences at **Majmaah University**.
+
+<p align="center">
+  <img src="ضعي_رابط_الـ_Raw_الذي_نسختيه_هنا" width="600" alt="Data Science Expo 2026 Certificate">
+</p>
+
+- **Awarded To:** Shaden Awaji
+- **Event:** Data Science Expo 2026
+- **Issued By:** College of Computer and Information Sciences, Majmaah University (Department Chair: Dr. Amal Aljohani)
