@@ -67,9 +67,7 @@ The models were evaluated based on **Accuracy, Precision, Recall, F1-Score, and 
 
 This project was officially recognized and presented at the **Data Science Expo 2026** hosted by the College of Computer and Information Sciences at **Majmaah University**.
 
-<p align="center">
-  <img src="ضعي_رابط_الـ_Raw_الذي_نسختيه_هنا" width="600" alt="Data Science Expo 2026 Certificate">
-</p>
+[Shaden Awaji  .jpg.pdf](https://github.com/user-attachments/files/29424677/Shaden.Awaji.jpg.pdf)
 
 - **Awarded To:** Shaden Awaji
 - **Event:** Data Science Expo 2026
